@@ -7,10 +7,10 @@ import subprocess
 import time
 
 # path of kraken2 database 
-db_path = "/public/workspace/3230300361bit/kraken_db"
+db_path = "/public/workspace/IDbit/kraken_db"
 
 # path of input fasta file 
-input_fasta = "/public/workspace/3230300361bit/kraken_db/TESTING_SET1_1000bp_labeled.fasta"
+input_fasta = "/public/workspace/IDbit/kraken_db/TESTING_SET1_1000bp_labeled.fasta"
 
 # output kraken result 
 report_file = "TESTING_SET1.report"
